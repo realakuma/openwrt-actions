@@ -6,8 +6,8 @@ on:
   push:
     branches:
       - main
-    paths:
-      - 'start'
+    #paths:
+    #  - 'start'
   #schedule:
   #  - cron: 0 20 * * *
   #watch:
