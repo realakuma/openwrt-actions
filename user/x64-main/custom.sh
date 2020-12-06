@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echo "Test a custom.sh"
+echo "Test a custom A.sh"
